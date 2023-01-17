@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MohitPandey ,
 - 👀 I’m interested in C and C++ programming and I will try to code easier!!
-- 🌱 I’m currently learning Oops with C++ and Data Base management system .
+- 🌱 I’m currently learning Oops with C++ | C language | HTML , Css & PHP | Data Base management system  .
 
 - 📫 How to reach me? DM on Instagram @black_heart_50000 .
 
