@@ -17,10 +17,10 @@
 - 👨‍💻 All of my projects are available at <br>
  [https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on <br>
   [https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
 
-- 📫 How to reach me 
+- 📫 How to reach me <br>
   **mohitkpandey677@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
