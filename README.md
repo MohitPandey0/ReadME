@@ -15,12 +15,12 @@
 - 🤝 I’m looking for help with **Content creator/manager**
 
 - 👨‍💻 All of my projects are available at <br>
- [https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
+ &nbsp;&nbsp;&nbsp;&nbsp;[https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
 
 - 📝 I regularly write articles on <br>
-  [https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
+  &nbsp;&nbsp;&nbsp;&nbsp;[https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
 
-- 📫 How to reach me <br>
+- 📫 How to reach me &nbsp;&nbsp;&nbsp;
   **mohitkpandey677@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
