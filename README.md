@@ -14,11 +14,14 @@
 
 - 🤝 I’m looking for help with **Content creator/manager**
 
-- 👨‍💻 All of my projects are available at [https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
+- 👨‍💻 All of my projects are available at 
+ [https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
 
-- 📝 I regularly write articles on [https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
+- 📝 I regularly write articles on 
+  [https://mohitpandey0.github.io/webworld.github.io/](https://mohitpandey0.github.io/webworld.github.io/)
 
-- 📫 How to reach me **mohitkpandey677@gmail.com**
+- 📫 How to reach me 
+  **mohitkpandey677@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
