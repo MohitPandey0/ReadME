@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about C/C++ , Python , JAVA , node.js , GIT 
+- 💬 Ask me about C/C++ , Python , JAVA , node.js , HTML-CSS , Bootstrap , TailwingCss , GIT 
 
 - 📫 How to reach me **mohitkpandey677@gmail.com**
 
@@ -26,17 +26,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-kumar-766523257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/black_heart_50000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit" height="30" width="40" /></a>
 <!--
 <a href="https://www.codechef.com/users/rajnimcet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajnimcet" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/rajnimcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajnimcet" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/rajnimcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajnimcet" height="30" width="40" /></a>
-
 <a href="https://www.hackerearth.com/@rajnimcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rajnimcet" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/rajni8yoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajni8yoa" height="30" width="40" /></a>
 -->
 </p>
